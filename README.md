@@ -9,7 +9,7 @@ Real estate dashboard project using SQL and Power BI. Cleaned, transformed, and 
 3. Connected the cleaned table to Power BI Desktop.
 4. Built interactive dashboards showing:
    - Average home value trends by city and state
-   - Top 5 most expensive cities
+   - Top 5 most expensive states
    - Month-over-month home value changes
  
  ## Files Included
